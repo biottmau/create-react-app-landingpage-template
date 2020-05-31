@@ -1,3 +1,11 @@
+## Descripción
+
+Template básico creado con create-react-app , materialize-ui y redux.. Simple ejemplo de AppBar, cover images and parallax.
+
+Enjoy !
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
